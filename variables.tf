@@ -9,7 +9,6 @@ variable "gateway_id" {
 variable "vpc_id" {}
 variable "cidr_block" {}
 variable "availability_zone" {}
-variable "project" {}
 
 variable "tags" {
   default {
